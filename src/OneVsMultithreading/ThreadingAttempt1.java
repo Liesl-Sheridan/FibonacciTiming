@@ -85,7 +85,7 @@ public class ThreadingAttempt1 {
 		//int total = 0;
 		
 		single.start();
-		
+	
 		multi1.start();
 		/*int[] firstArray = multi1.getMulti1Array();
 		for (int element: firstArray) {
